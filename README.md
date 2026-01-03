@@ -1,14 +1,28 @@
-# V26 AI
+<p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/252782031?v=4" 
+    alt="V26 AI Logo" 
+    width="140"
+  />
+</p>
 
-**Build AI Agents.  
-Track Everything.  
-Prove Integrity.**
+<h1 align="center">V26 AI</h1>
 
-![Status](https://img.shields.io/badge/status-private_beta-orange)
-![Focus](https://img.shields.io/badge/focus-Solana-blueviolet)
-![Agents](https://img.shields.io/badge/AI-agents-blue)
-![Security](https://img.shields.io/badge/security-verification--ready-green)
-![License](https://img.shields.io/badge/license-proprietary-red)
+<p align="center">
+  <strong>
+    Build AI Agents.<br/>
+    Track Everything.<br/>
+    Prove Integrity.
+  </strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-private_beta-orange" />
+  <img src="https://img.shields.io/badge/focus-Solana-blueviolet" />
+  <img src="https://img.shields.io/badge/AI-agents-blue" />
+  <img src="https://img.shields.io/badge/security-verification--ready-green" />
+  <img src="https://img.shields.io/badge/license-proprietary-red" />
+</p>
 
 ---
 
